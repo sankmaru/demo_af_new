@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="demo_af_new_tbl" max_length="40" name="x_131847_demo_af_n_demo_af_new_tbl" type="collection"/>
+</database>

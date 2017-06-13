@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="demo_af_new">135bf2cadb93f200af9f721dbf96194e</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>demo_af_new_tbls</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_131847_demo_af_n_demo_af_new_tbl</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_131847_demo_af_n.demo_af_new_tbl_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-13 14:13:12</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9b5bb6cadb93f200af9f721dbf9619c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>demo_af_new_tbls</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="demo_af_new" source="x_131847_demo_af_n">3e0b3e8adb93f200af9f721dbf96190e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="demo_af_new">3e0b3e8adb93f200af9f721dbf96190e</sys_scope>
+        <sys_update_name>sys_app_module_9b5bb6cadb93f200af9f721dbf9619c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-13 14:13:12</sys_updated_on>
+        <timeline_page/>
+        <title>demo_af_new_tbls</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
